@@ -2,13 +2,28 @@
 
 [![License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
-## Descripción
+🚀 Profinder - Aplicación de Citas 🚀
 
-Profinder es una aplicación de citas que permite a los usuarios prestadores de servicios publicar sus servicios y ofrecerlos dentro de diversas categorías en diferentes zonas de Latinoamérica. Los usuarios clientes pueden consultar estas publicaciones según su zona y establecer contacto con los prestadores de servicios para contratarlos.
+Profinder es una plataforma innovadora que permite a los usuarios prestadores de servicios publicar sus servicios y ofrecerlos dentro de diversas categorías en diferentes zonas de Latinoamérica.
+![image](https://github.com/CristianCuesta14/ProFinder/assets/110426875/375b4ad9-c9ae-49a7-8187-17551087fc81)
 
-## Captura de Pantalla
+Los usuarios clientes pueden consultar estas publicaciones según su ubicación y establecer contacto directo con los prestadores de servicios para contratarlos.
+![image](https://github.com/CristianCuesta14/ProFinder/assets/110426875/d9981ca3-a987-42ca-9605-ad999d4d2a5f)
 
-![Profinder](https://ruta_de_la_imagen.jpg)
+🌐 Visita Profinder:
+https://profinder-client.vercel.app/
+![image](https://github.com/CristianCuesta14/ProFinder/assets/110426875/37c1034b-122a-4613-abf0-d5a70de7e2c9)
+
+
+
+🔹 Tecnologías Utilizadas:
+React, React Router Dom, Redux, Chakra UI, Leaflet, Firebase, Axios, Chart.js, react-chartjs-2, react-leaflet, framer-motion, react-slick, react-simple-chatbot, react-hook-form, jwt-decode, zustand, entre otras.
+
+💻 Frontend:
+Repositorio GitHub:https://github.com/agustinboasso/ProFinder-ProyectoFinalHenry-
+
+🔙 Backend:
+Repositorio GitHub: https://github.com/agustinboasso/ProFinder-ProyectoFinalHenry-
 
 ## Tecnologías Utilizadas
 
